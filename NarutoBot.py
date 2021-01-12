@@ -5,7 +5,7 @@ import asyncio
 
 client = discord.Client()
 TOKEN = "Nzk4NDI5MzA4NTg2MDMzMTgz.X_05PQ.WHKB1U_O0RZdQ4Iourk-soXZZzg"
-
+#not the token anymore so don't even try it
 
 @client.event
 async def on_message(message):
